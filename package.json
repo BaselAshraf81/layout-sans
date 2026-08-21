@@ -2,7 +2,11 @@
   "name": "layout-sans",
   "version": "0.2.2",
   "description": "CSS Flex/Grid layout without the browser. No DOM. No WASM bloat.",
-  "author": "Basel Ashraf",
+  "author": {
+    "name": "Basel Ashraf",
+    "email": "hello@baselashraf.com",
+    "url": "https://baselashraf.com"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
